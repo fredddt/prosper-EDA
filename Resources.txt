@@ -1,0 +1,5 @@
+Resources used in this project:
+ - Wickham, H. (2016). ggplot2: elegant graphics for data analysis. Springer.
+ - abbr2state function: https://rdrr.io/cran/openintro/man/abbr2state.html
+ - http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+ - Variable definitions: https://rstudio-pubs-static.s3.amazonaws.com/86324_ab1e2e2fa210452f80a1c6a1476d7a2a.html
